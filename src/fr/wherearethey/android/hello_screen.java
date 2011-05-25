@@ -11,7 +11,7 @@ public class hello_screen extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         
-        TextView tv = (TextView) findViewById(R.id.maTextView);
-        tv.setText("Plop");
+        /*TextView tv = (TextView) findViewById(R.id.maTextView);
+        tv.setText("Plop");*/
     }
 }
